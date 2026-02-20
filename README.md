@@ -1,4 +1,4 @@
-## Hi there 👋
+
 Sou o lucas!
 gosto muito de backend e tenho preconceito com quem utiliza python!!
 <!--
